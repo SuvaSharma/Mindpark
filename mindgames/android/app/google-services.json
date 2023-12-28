@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841340669875",
+    "project_id": "mindpark-39aaa",
+    "storage_bucket": "mindpark-39aaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841340669875:android:d3fbe85a6f51625fe005c6",
+        "android_client_info": {
+          "package_name": "com.example.mindgames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9q4ey5oxnRl3ZLuPP2JlRX_hsoiz647c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

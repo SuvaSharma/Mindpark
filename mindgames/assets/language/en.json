@@ -1,0 +1,67 @@
+{
+"select_language": " select language",
+"you_can_change_language": "you can change selected language",
+"brain_teasers":"Brain Teasers",
+"Play": "Play",
+"1": "1",
+"2": "2",
+"3": "3",
+"4": "4",
+"5": "5",
+"6": "6",
+"7": "7",
+"8": "8",
+"19":"19",
+"14":"14",
+"21":"21",
+
+"No. 1": "No. 1",
+
+"no3": "No. 3",
+"no4": "No. 4",
+"No. 5": "No. 5",
+"No. 6": "No. 6",
+"no7": "No. 7",
+"no8": "No. 8",
+"How many triangles are there in this picture?": "How many triangles are there in this picture?",
+"ok": "ok",
+"Congratulations!": "Congratulations!",
+
+"Great job! Lets go to next one...": "Great job! Lets go to next one...",
+"Next": "Next",
+"Wrong Answer": "Wrong Answer",
+"Guess Again": "Guess Again",
+"Try Again": "Try Again",
+
+"Hint": "Hint",
+"Count the all the triangles that you can see in the picture!": "Count the all the triangles that you can see in the picture!",
+"Got it!": "Got it!",
+"No. 2": "No. 2",
+"Which one is not the identical honey bee?": "Which one is not the identical honey bee?",
+"Watch out for those stingers! Rumor has it, one of these bees has a stinger with a reputation –its not just for show, its a real pain inducer!":"Watch out for those stingers! Rumor has it, one of these bees has a stinger with a reputation –its not just for show, its a real pain inducer!",
+"Congratulations!": "Congratulations!",
+"You nailed it!": "You nailed it!" ,
+"Next": "Next",
+"Wrong Answer": "Wrong Answer",
+"Guess Again": "Guess Again",
+"Try Again": "Try Again",
+
+"No. 3": "No. 3",
+"How many holes are there in this t-shirt?" :"How many holes are there in this t-shirt?",
+
+"No. 4": "No. 4",
+"Find Two of a kind!": "Find Two of a kind!",
+
+"the speed of the train is 120kmph and it takes 12 seconds to pass a light tower, how long is the train?": "the speed of the train is 120kmph and it takes 12 seconds to pass a light tower, how long is the train?",
+"190" : "190",
+"832": "832",
+"400": "400",
+"678": "678",
+"100": "100",
+"456": "456",
+"74": "74",
+"210": "210",
+"Which door should Tom choose to survive?": "Which door should Tom choose to survive?"
+
+
+}

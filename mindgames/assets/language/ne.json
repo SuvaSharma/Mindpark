@@ -1,0 +1,67 @@
+{
+"select_language": "भाषा छनोट गर्नुस",
+"you_can_change_language": "तपाईंले चयन गरेको भाषा परिवर्तन गर्न सक्नुहुन्छ",
+"brain_teasers":"दिमागी खेलहरू",
+"Play":"खेल्नु",
+"1":"१",
+"2": "२",
+"3": "३",
+"4": "४",
+"5": "५",
+"6": "६",
+"7": "७",
+"8": "८",
+"19":"१९ ",
+"14":"१४ ",
+"21":"२१ ",
+
+"No. 1":"नं १",
+
+"no4": "नं ४",
+"No. 5": "नं ५",
+"No. 6": "नं ६",
+"no7": "नं ७",
+"no8": "नं ८",
+"How many triangles are there in this picture?": "यो चित्रमा कतिवटा त्रिभुज छन्?" ,
+"ok": "ठिक छ",
+"Congratulations!": "बधाई छ!!",
+"Great job! Lets go to next one...": "तपाईंले राम्रो खेल्नुभयो! अर्कोमा जाऔं..",
+"Wrong Answer" : "गलत जवाफ",
+"Guess Again" : "फेरि अनुमान गर्नुहोस्",
+"Try Again": "पुन: प्रयास गर्नुहोस्",
+
+
+"Next": "अर्कोमा जाऔं",
+"Hint": "विचार",
+"Count the all the triangles that you can see in the picture!": "तपाईंले चित्रमा देख्न सक्नुहुने सबै त्रिकोणहरू गणना गर्नुहोस्!",
+"Got it!": "बुझे !",
+"No. 2": "नं २",
+"Which one is not the identical honey bee?":"उस्तै मौरी कुन होइन ?",
+"Watch out for those stingers! Rumor has it, one of these bees has a stinger with a reputation –its not just for show, its a real pain inducer!": "अफवाह छ, यी माहुरीहरू मध्ये एउटामा विशेष डंक हुन्छ जुन वास्तविक पीडा उत्पन्न गराउने हुन्छ",
+"Congratulations!": "बधाई छ!!",
+"You nailed it!":"तपाईंले अद्भुत खेल्नुभयो!",
+"Next": "अर्कोमा जाऔं",
+"Wrong Answer" : "गलत जवाफ",
+"Guess Again" : "फेरि अनुमान गर्नुहोस्",
+"Try Again": "पुन: प्रयास गर्नुहोस्",
+
+
+"No. 3" :"नं ३",
+"How many holes are there in this t-shirt?": "यो टी-शर्टमा कतिवटा प्वालहरू छन्?",
+"No. 4": "नं ४",
+"Find Two of a kind!": "दुई फरक छविहरू फेला पार्नुहोस्",
+"the speed of the train is 120kmph and it takes 12 seconds to pass a light tower, how long is the train?" : "ट्रेनको गति 120kmph छ र लाइट टावर पार गर्न 12 सेकेन्ड लाग्छ, ट्रेन कति लामो छ?",
+"190" : "१९० ",
+"832": "८३२ ",
+"400": "४००",
+"678": "६७८",
+"100": "१००",
+"456": "४५६",
+"74": "७४",
+"210": "२१०",
+"Which door should Tom choose to survive?": "टमले बाँच्नको लागि कुन ढोका रोज्नुपर्छ?"
+
+
+
+
+}

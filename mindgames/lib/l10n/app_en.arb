@@ -1,0 +1,14 @@
+{
+    "brainTeasers": "BrainTeasers",
+    "@brainTeasers": {
+        "description": "The conventional newborn programmer greeting"
+    },
+     "counterMsg": "Play",
+        "@counterMsg": {
+        "description": "Play"
+    }
+
+
+
+    
+}
